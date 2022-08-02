@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "practicevinay"
+		},
+		"LinkedService_github_connectionString": {
+			"value": ""
 		}
 	}
 }
